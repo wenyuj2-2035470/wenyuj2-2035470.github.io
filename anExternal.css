@@ -1,0 +1,47 @@
+div.a {
+    text-align: center;
+}
+div.margin {
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: lightblue;
+}
+img.float {
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+}
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;  
+}
+span.bold {
+    font-family: cursive
+}
+  
+span.italic {
+    font-family: fantasy
+}
+  
+span.underline {
+    font-family: monospace
+}
+  
+span.italic {
+    font-family: serif
+}
+h1 {
+    border-bottom-style: solid;
+    border-bottom-color: coral;
+}
+div {
+    border-style: solid;
+    border-bottom-color: coral;
+}
