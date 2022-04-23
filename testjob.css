@@ -1,0 +1,38 @@
+body {
+    background-image: url("wood.jpeg");
+}
+div.Header {
+    width: 400px;
+    font-family: "Passion One";
+    color: #8E41D5;
+    font-weight: bold;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+img.title {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    opacity: 0.5;
+}
+span.a {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;  
+    background-color: yellow; 
+}
